@@ -1,0 +1,36 @@
+Question,options,options_perc
+Gender,Male,49.2
+Gender,Female,50.8
+Age,18-29,18
+Age,30-44,25
+Age,45-64,41
+Age,65 and older,16
+Race,White,50.5
+Race,Black,30.9
+Race,Latino,10.4
+Race,Asian,6.7
+Race,Other race,1.5
+Education,High school or less,35.8
+Education,Some college,25.8
+Education,College graduate,20.7
+Education,Postgraduate,17.7
+Income,"Under $30,000",13
+Income,"$30K-$49,999",17
+Income,"$50K-$99,999",30
+Income,"$100K-$199,999",26
+Income,"$200K-$249,999",5
+Income,"$250,000 or more",9
+Religion,Protestant,52
+Religion,Catholic,15
+Religion,Mormon,1
+Religion,Other Christian,2
+Religion,Jewish,3
+Religion,Muslim,1
+Religion,Other religion,3
+Religion,No religion,23
+How often do you attend religious services?,Weekly or more,31
+How often do you attend religious services?,Monthly,18
+How often do you attend religious services?,Few times a year,18
+How often do you attend religious services?,Never,33
+"Are you gay, lesbian, bisexual or transgender?",Yes,3.9
+"Are you gay, lesbian, bisexual or transgender?",No,96.1
